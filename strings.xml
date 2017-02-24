@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Yoda Speech</string>
+    <string name="api_key">7zQkf7MIaVmshc4fQSvFwF3awbDPp1IiY3FjsnL4uNnkoZKOb0</string>
+    <string name="translate_button_text">Translate to Yoda Text</string>
+    <string name="result_text">“%s”</string>
+    <string name="hint">Enter Text to translate</string>
+</resources>
